@@ -1,0 +1,45 @@
+
+[
+	{
+		"mId": "guid-1",
+        "unread": true,
+        "time" : "5:45pm",
+		"subject" : "Training Program",
+		"content" : "About Microsoft Virtual Academy<br/>Microsoft Virtual Academy provides free online training by world-class experts to help you build your technical skills and advance your career. Make it your destination of choice to get started on the latest Microsoft technologies and join this vibrant community."
+	},
+	{
+		"mId": "guid-2",
+        "unread": true,
+        "time" : "3:45pm",
+		"subject" : "Empower your future",
+		"content" : "We foster our pipeline of future leaders with 47 employee networks and 7 global employee resource groups, servicing an active community of thousands across Microsoft"
+	},
+	{
+		"mId": "guid-7",
+        "unread": true,
+        "time" : "2:45pm",
+		"subject" : "Training Program",
+		"content" : "About Microsoft Virtual Academy<br/>Microsoft Virtual Academy provides free online training by world-class experts to help you build your technical skills and advance your career. Make it your destination of choice to get started on the latest Microsoft technologies and join this vibrant community."
+	},
+	{
+		"mId": "guid-8",
+        "unread": false,
+        "time" : "1:45pm",
+		"subject" : "Empower your future",
+		"content" : "We foster our pipeline of future leaders with 47 employee networks and 7 global employee resource groups, servicing an active community of thousands across Microsoft"
+	},
+	{
+		"mId": "guid-9",
+        "unread": false,
+        "time" : "Oct 31",
+		"subject" : "Training Program",
+		"content" : "About Microsoft Virtual Academy<br/>Microsoft Virtual Academy provides free online training by world-class experts to help you build your technical skills and advance your career. Make it your destination of choice to get started on the latest Microsoft technologies and join this vibrant community."
+	},
+	{
+		"mId": "guid-11",
+        "unread": false,
+        "time" : "Oct 31",
+		"subject" : "Empower your future",
+		"content" : "We foster our pipeline of future leaders with 47 employee networks and 7 global employee resource groups, servicing an active community of thousands across Microsoft"
+	}
+]
